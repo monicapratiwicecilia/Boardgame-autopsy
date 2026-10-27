@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tubuh" size="1.000000 0.349892" />
+    <ImageTarget name="kepalaa" size="1.000000 1.138528" />
+    <ImageTarget name="dadaa" size="1.000000 1.114894" />
+    <ImageTarget name="perutt" size="1.000000 1.047809" />
+    <ImageTarget name="panggul" size="1.000000 1.118644" />
+    <ImageTarget name="kacapembesar" size="1.000000 1.339286" />
+    <ImageTarget name="engsel" size="1.000000 1.339286" />
+    <ImageTarget name="termometer" size="1.000000 1.333333" />
+    <ImageTarget name="lebam" size="1.000000 1.333333" />
+    <ImageTarget name="kebunterbuka" size="1.000000 1.344262" />
+    <ImageTarget name="gudangpabrik" size="1.000000 1.344262" />
+    <ImageTarget name="kamarmandi" size="1.000000 1.344262" />
+    <ImageTarget name="keracunanmetanol" size="1.000000 1.344262" />
+    <ImageTarget name="gantungdiri" size="1.000000 1.344262" />
+    <ImageTarget name="airlaut" size="1.000000 1.344262" />
+    <ImageTarget name="airtawar" size="1.000000 1.351351" />
+  </Tracking>
+</QCARConfig>
